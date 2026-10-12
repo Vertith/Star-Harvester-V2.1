@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.svg" width="160" alt="Star Harvester logo"></p>
+
 # Star Harvester v2.1
 
 **▶ [Play Star Harvester in your browser](https://vertith.github.io/Star-Harvester-V2.1/)**
